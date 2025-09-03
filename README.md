@@ -1,0 +1,1 @@
+# daimagix-sitemap
