@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://daimagix-sitemap.github.io/daimagix-sitemap/sitemap.xml
